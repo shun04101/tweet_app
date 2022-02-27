@@ -1,24 +1,24 @@
-# README
+# TweetApp
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+Tweet投稿サイト
 
-Things you may want to cover:
+### テーマを選んだ理由
+Ruby on Railsの基礎学習としてCRUDアプリケーションの制作を行う。
 
-* Ruby version
+### 機能
+※随時更新予定
 
-* System dependencies
+## 設計書
+※随時更新予定
 
-* Configuration
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用素材
+※随時更新予定
+- [ODAN](https://o-dan.net/ja/)
