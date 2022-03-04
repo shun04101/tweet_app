@@ -12,9 +12,7 @@ Ruby on Railsの基礎学習としてCRUDアプリケーションの制作を行
 - 新規投稿/編集/削除
 - ユーザー登録(Gem無し)
 - ユーザー画像登録/編集
-
-## 設計書
-※随時更新予定
+- パスワードのハッシュ化(Gem:bcrypt)
 
 ## 開発環境
 - OS：Linux(CentOS)
@@ -24,5 +22,4 @@ Ruby on Railsの基礎学習としてCRUDアプリケーションの制作を行
 - IDE：Cloud9
 
 ## 使用素材
-※随時更新予定
 - [ODAN](https://o-dan.net/ja/)
